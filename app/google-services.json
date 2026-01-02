@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766775291278",
+    "project_id": "pertemuan14-e4b60",
+    "storage_bucket": "pertemuan14-e4b60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766775291278:android:3a784031a27d997b1888df",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan14"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZgNhSAjr-lM8CYXtRnd0iFaK3EINJcfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
