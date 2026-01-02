@@ -1,4 +1,10 @@
 package com.example.pertemuan14.view.route
 
-object DestinasiEdit {
+import com.example.pertemuan14.R
+
+object DestinasiEdit : DestinasiNavigasi {
+    override val route = "item_edit"
+    override val titleRes = R.string.edit_siswa
+    const val itemIdArg = "idSiswa"
+    val routeWithArgs = "$route/{$itemIdArg}"
 }
