@@ -1,4 +1,5 @@
 <resources>
+    <string name="belum_ada_siswa">Belum ada siswa yang ditambahkan.</string>
     <string name="app_name">Data Firebase</string>
     <string name="entry_siswa">Tambah Siswa</string>
     <string name="back">back</string>
