@@ -1,3 +1,5 @@
+package com.example.pertemuan14.view.controllNavigasi
+
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.navigation.NavHostController
@@ -9,6 +11,7 @@ import androidx.navigation.navArgument
 import com.example.pertemuan14.view.DetailSiswaScreen
 import com.example.pertemuan14.view.EditSiswaScreen
 import com.example.pertemuan14.view.EntrySiswaScreen
+import com.example.pertemuan14.view.HomeScreen
 import com.example.pertemuan14.view.route.DestinasiDetail
 import com.example.pertemuan14.view.route.DestinasiEdit
 import com.example.pertemuan14.view.route.DestinasiEntry
